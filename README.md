@@ -25,16 +25,16 @@ The objective of this project is to build a machine learning model that predicts
    git clone https://github.com/yourusername/your-repo-name.git
 
 ---
+
 ### Final Reflections & Lessons Learned
-Feature Engineering is Key: The importance of feature engineering became evident throughout this project. Creating new features like FamilySize and IsAlone significantly improved model performance.
+**Feature Engineering is Key**: The importance of feature engineering became evident throughout this project. Creating new features like FamilySize and IsAlone significantly improved model performance.
 
-Handling Missing Data: Understanding the impact of missing data and deciding how to handle it is crucial. I learned that different imputation strategies could lead to varying results.
+**Handling Missing Data**: Understanding the impact of missing data and deciding how to handle it is crucial. I learned that different imputation strategies could lead to varying results.
 
-Model Selection and Tuning: Experimenting with various machine learning algorithms and fine-tuning their hyperparameters is essential for achieving the best performance. Ensemble methods like Random Forest and advanced algorithms like Gradient Boosting can often provide better results.
+**Model Selection and Tuning**: Experimenting with various machine learning algorithms and fine-tuning their hyperparameters is essential for achieving the best performance. Ensemble methods like Random Forest and advanced algorithms like Gradient Boosting can often provide better results.
 
-Cross-Validation: Relying solely on a single train-test split can be misleading. Cross-validation offers a more reliable way to assess model performance and avoid overfitting.
+**Cross-Validation**: Relying solely on a single train-test split can be misleading. Cross-validation offers a more reliable way to assess model performance and avoid overfitting.
 
-Continuous Learning: This project was a reminder that data science is a continuous learning process. Staying curious and experimenting with different approaches is vital to growing as a data scientist.
 ---
 Libraries Used
 *Pandas*: For data manipulation and analysis.
